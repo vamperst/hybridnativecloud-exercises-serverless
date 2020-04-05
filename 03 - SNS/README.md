@@ -1,6 +1,6 @@
 # Aula 05.3 - Lambda
 
-1. No terminal do IDE criado no cloud9 execute o comando `cd ~/environment/hybridnativecloud-exercises-serverless/SNS/` para entrar na pasta que fara este exercicio.
+1. No terminal do IDE criado no cloud9 execute o comando `cd ~/environment/hybridnativecloud-exercises-serverless/03\ -\ SNS/` para entrar na pasta que fara este exercicio.
 2. Crie uma pasta chamada layer com o comando `mkdir layer` no terminal
 3. Execute o comando `pip3 install -r requirements.txt -t layer/` para que todas as dependecias fiquem dentro desta pasta.
 4. Vamos criar o SNS que será utilizado no exercicio, para isso abra uma aba do console e vá para o serviço SNS. No menu lateral do serviço clique em Tópicos.
